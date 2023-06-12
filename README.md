@@ -28,4 +28,4 @@ springboot-starter初始化配置，AOP切面，哈希寻址，ThreadLocal，MyB
 >>>>>password:  
 
 ## 注意
-本组件基于Mybatis插件对SQL的修改，因此litTable=True时，对应SQL语句不可加具体表。
+本组件基于Mybatis插件对SQL的修改，因此splitTable=True时，对应SQL语句不可加具体表。
