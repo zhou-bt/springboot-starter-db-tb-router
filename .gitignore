@@ -1,0 +1,5 @@
+/.idea/
+/db-router-spring-boot-starter.iml
+
+# Project exclude paths
+/target/
